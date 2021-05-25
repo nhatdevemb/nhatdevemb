@@ -2,7 +2,7 @@
 
 ![Gaboso](https://github.com/nhatdevemb/nhatdevemb/blob/main/nhat3.png "Nhat")
 
-:computer: _Software Engenieer at [Fitnezz.io](https://github.com/fitnezzio)_ :desert_island:Living in Floripa :brazil:
+:computer: _DeveloperEmbededded  :Living in HaNoi :
 
 
 #### Embedded
