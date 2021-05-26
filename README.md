@@ -1,4 +1,4 @@
-## Hi I'm Nhat :spider_face:
+## Hi I'm Nhat :
 
 ![Gaboso](https://github.com/nhatdevemb/nhatdevemb/blob/main/nhat3.png "Nhat")
 
