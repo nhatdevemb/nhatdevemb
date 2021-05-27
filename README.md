@@ -1,4 +1,4 @@
-## Hi I'm Nhat :
+## Hi I'm Nhat 
 
 ![Gaboso](https://github.com/nhatdevemb/nhatdevemb/blob/main/nhat3.png "Nhat")
 
@@ -25,6 +25,6 @@
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-
+![Linux](https://img.shields.io/badge/Linux-%20-orange)
 ---
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
