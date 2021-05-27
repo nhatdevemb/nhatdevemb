@@ -4,7 +4,10 @@
 
 :computer: _DeveloperEmbededded  :Living in HaNoi :
 
-
+#### IOT
+![Arduino](https://img.shields.io/badge/Arduino-C%2FC%2B%2B-blue)
+![ESP](https://img.shields.io/badge/ESP-8266-orange)
+![STM](https://img.shields.io/badge/STM-32-%23FFFFFF)
 #### Embedded
 ![Arduino](https://img.shields.io/badge/Arduino-C%2FC%2B%2B-blue)
 ![Keil C](https://img.shields.io/badge/Keil%20C-C-green)
