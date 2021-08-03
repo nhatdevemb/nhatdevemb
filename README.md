@@ -12,7 +12,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-C%2FC%2B%2B-blue)
 ![Keil C](https://img.shields.io/badge/Keil%20C-C-green)
 ![CubeMX](https://img.shields.io/badge/Cube-MX-%232E9AFE)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+
 
 #### Database
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
